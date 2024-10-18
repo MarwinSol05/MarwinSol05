@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg)](https://marwinsol05.github.io/)
-<h1 align="center">Hi 👋, I'm Marwin Solomon</h1>
+<h1 align="center">Hi 👋, I am Marwin Solomon</h1>
 <h3 align="center">Mathematician turned Data Scientist working at a Proprietary Trading Firm</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
 
