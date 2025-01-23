@@ -8,7 +8,7 @@
 - 🔭 I am currently working on **building solar, wind and demand generation models using weather data**
 - 👨‍💻 I am interested in building **trading strategies using machine learning**
 - 💬 Ask me about **mathematics, python, machine learning**
-- 📫 How to reach me **marwinsolomon07@gmail.com**
+- 📫 How to reach me **msolomon@alumni.lse.ac.uk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
