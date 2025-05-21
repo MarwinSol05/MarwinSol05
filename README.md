@@ -1,11 +1,11 @@
 [![MasterHead](https://i.pinimg.com/originals/54/dd/2a/54dd2a6c17f894e233848e18eaa242d9.jpg)](https://marwinsol05.github.io/)
 <h1 align="center">Hi 👋, I am Marwin Solomon</h1>
-<h3 align="center">Mathematician turned Data Scientist working at a Proprietary Trading Firm</h3>
+<h3 align="center">Mathematician turned Data Scientist with interest in leveraging Machine Learning for Systematic Investment Process</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwinsol05&label=Profile%20views&color=0e75b6&style=flat" alt="marwinsol05" /> </p>
 
-- 🔭 I am currently working on **building solar, wind and demand generation models using weather data**
+- 🔭 I most recently worked on **building solar, wind and demand generation models (fundamental models) using weather data for Power & Gas Trading**
 - 👨‍💻 I am interested in building **trading strategies using machine learning**
 - 💬 Ask me about **mathematics, python, machine learning**
 - 📫 How to reach me **msolomon@alumni.lse.ac.uk**
